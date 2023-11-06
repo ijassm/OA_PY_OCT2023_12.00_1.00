@@ -1,4 +1,3 @@
-
 ##type casting
 ##int() float() complex()
 ##str() list() bool()
