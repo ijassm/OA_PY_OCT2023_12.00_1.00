@@ -16,9 +16,9 @@ user = 3
 ##times = 3
 
 #output
-5 * 1 = 5
-5 * 2 = 10
-5 * 3 = 15
+# 5 * 1 = 5
+# 5 * 2 = 10
+# 5 * 3 = 15
 
 ##logic
 ##table * times = table * times
